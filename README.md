@@ -23,3 +23,5 @@ This project is a serverless web application designed to manage student data. It
 
 4. **Database**:
    - Provisioned and optimized Amazon DynamoDB for scalable and efficient data storage.
+
+(https://github.com/VedantK1610/Serverless-Student-Data-Management-with-AWS/blob/main/Screenshot%202024-07-26%20105331.png)
